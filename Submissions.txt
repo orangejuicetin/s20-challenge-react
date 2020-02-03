@@ -1,9 +1,18 @@
-1. How many hours did you spend on this challenge?
+1. How many hours did you spend on this challenge? 2-3
 
-2. Describe the features you have implemented.
+2. Describe the features you have implemented. 
+Literally was just trying to display text and get some structure; i was too ambitious and tried
+using styled components when I should've just used bulma or something to at least get a working
+prototype.
 
 3. Describe the difficulties you faced (if any) while working on the challenge and how you tackled them.
+Main difficulty was just debugging and trying to get the components to render on the screen; also the main 
+difficulty was just dealing with CSS and trying to think of how I would record the answers and calculate 
+which response to return. 
 
 4. How much time do you think you can spend each week working for theDP Web Department?
+Probably around 2-3? Not sure, it definitely will vary from week to week depending on what 
+my other classes and clubs might do, but consistently I think 2-3
 
 5. (Optional) If there is anything you want to tell us, go ahead :)
+Thanks for even reading this lolol sorry for not coming up with functional product :((
